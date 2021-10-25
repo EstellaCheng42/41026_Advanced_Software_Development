@@ -1,0 +1,81 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2021年10月2日, 下午1:13:19
+    Author     : Administrator
+*/
+body {
+    background: #D0CECE;
+    font-size:18px;
+}
+
+.fontwhite{
+    color:#fff;
+}
+
+.alink{
+    background:#2F5597;
+    width:100px;
+}
+
+.leftdiv{
+    background: #FFC000;
+    border:1px solid #000;
+    width:250px;
+    height:150px;
+    line-height: 150px;
+    text-align: center;
+}
+
+.rightdiv{
+    background:#000;
+    border:1px solid #000;
+    width:250px;
+    height:150px;
+    line-height: 150px;
+    text-align: center;
+}
+
+.cardbox{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nextbox{
+    position: absolute;
+    bottom:0;
+    margin-bottom:10%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.next_button{
+    border:1px solid #000;
+    text-align:center;
+}
+
+.next_button_bg1{
+    background:#AFABAB;
+}
+
+.next_button_bg2{
+    background:#2F5597;
+}
+
+.textcenter{
+    text-align: center;
+}
+
+.discenter{
+    display:flex;justify-content: center;align-items: center;
+}
+
+.fontbold{
+    font-weight: bold;
+}
+
+
+
